@@ -1,0 +1,3 @@
+Morris_Reveal = {850000}
+Rayli_Reveal = {0088ff}
+Morty_Recense = {8b008b}
